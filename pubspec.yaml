@@ -1,7 +1,7 @@
 name: horizontal_calendar
 description: Horizontal calendar widget with a lot of customizable styles, also can be put as appbar widget.
 version: 0.0.1
-homepage: https://github.com/emmanuellmota/horizontal_calendar
+homepage: https://github.com/ldantascruz/horizontal_calendar
 
 environment:
   sdk: '>=2.18.6 <3.0.0'
@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   expandable_page_view: ^1.0.17
-  intl: ^0.17.0
+  intl: ^0.18.0
   scrollable_positioned_list: ^0.3.5
 
 dev_dependencies:
